@@ -1,10 +1,10 @@
-# NoAnnoyance v2 GNOME Shell Extension
+# NoAnnoyance v3 GNOME Shell Extension
 
 ## About
 Another extension, that removes the 'Window is ready' notification and puts the window into focus.  
 In contrast to all the other extensions, this uses ES6 syntax and is actively maintained.
 
-This is a fork of https://github.com/sindex/no-annoyance, so thank you Alex for the work you already made.
+This is a fork of https://github.com/bdaase/noannoyance, so thank you Björn (and Alex who made [v1](https://github.com/sindex/no-annoyance)) for the work you already made.
 
 ## Supported GNOME versions
 - 40
